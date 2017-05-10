@@ -33,7 +33,7 @@ void frequenciesCount(FILE *fd) {
 
     //TODO: count and add the words to array 
 
-   /* int i = 0;
+    int i = 0;
     //char *str = nextWordInFile(fd);
     char str = ReadFile(fd);
 
@@ -51,7 +51,7 @@ void frequenciesCount(FILE *fd) {
             printf("i: %d", i);
             i++;
         }
-/*
+
         if (j == 0) {
             if (numLetters == lettersLength) {
                 int n = lettersLength * 2;
@@ -64,6 +64,6 @@ void frequenciesCount(FILE *fd) {
         }
         i = 0;
         j = 0;
-        */
+        
 
 }
